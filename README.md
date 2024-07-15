@@ -9,7 +9,7 @@ Currently I'm pursuing Third year BE in Alva's Institute of Engineering and Tech
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chandankumarm10404@gmail.com](mailto:chandankumarm10404@gmail.com)
 * 🧠  I'm a learner, I'm Currently learning about Ethical Hacking
-* 🤝  I'm open to collaborating on I'm open to collaborating on Cybersecurity and Designing fields
+* 🤝  I'm open to collaborating on Cybersecurity and Designing fields
 
 ### Skills
 
